@@ -1,0 +1,7 @@
+div{
+       
+        transition: .5s;
+}
+div:hover{
+        transition: .5s;
+}

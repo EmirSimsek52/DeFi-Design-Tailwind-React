@@ -1,0 +1,12 @@
+.icon{
+    rotate: 5deg;
+        
+}
+li{
+    transition: .5s;
+    cursor: pointer;
+}
+li:hover{
+    color:'#00d8ff';
+    transition: .5s;
+}
